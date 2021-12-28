@@ -28,3 +28,5 @@ THis is the config.json File
 
 require('./server')();
 client.login(config.TOKEN);
+
+//Credits to rip.#1617
